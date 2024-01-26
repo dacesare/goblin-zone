@@ -6,11 +6,11 @@ function draw() {
   background(250, 120, 0);
   
   stroke(255, 150, 0);
-  strokeWeight(50);
+  strokeWeight(75);
   line(0, 266, 400, 266);
   
   stroke(255, 150, 0);
-  strokeWeight(50);
+  strokeWeight(25);
   line(0, 133, 400, 133);
   
   ellipseMode(RADIUS);
